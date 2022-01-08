@@ -1,4 +1,4 @@
-Aloha! 👋
+<H2>Aloha!</H2>
 
 <!--
 **palyi/palyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 <H3>Palyi.space</H3>
-<img align="left" alt="Palyi.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <img align="left" alt="Palyi.space" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></br>
+<img align="left" alt="Palyi.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <img align="left" alt="Palyi.space" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Palyi.space is a technology blog and YouTube channel presenting various concepts realized in prototypes I built in the domains of ROCKETRY, DRONES, IoT, ELECTRONICS, ROBOTICS AND ARTIFICIAL INTELLIGENCE in the most unusual combinations.</br>
 
-<H2>Palyi.com</H2>
-<img align="left" alt="Palyi.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img align="left" alt="Palyi.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></br>
+<H3>Palyi.com</H3>
+<img align="left" alt="Palyi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <img align="left" alt="Palyi.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></br>
 
 [<img align="left" alt="Palyi on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
