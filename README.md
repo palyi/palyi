@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCq1_rzb8t9qWqHlsTc-rwvg"><img align="left" alt="Palyi.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Palyi.com YouTube Channel</a></br>
 </br>Palyi.com is the travel blog - also a YouTube channel - documenting my best trips, city visits, gastro treats and more. 
 
+<H2>Social media presence</H2>
 <a href="https://www.linkedin.com/in/palyi/"><img align="left" alt="Palyi on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Follow me on LinkedIn</a>
 
 <a href="https://www.instagram.com/palyidotcom/"><img align="left" alt="Palyi on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Follow me on Instagram</a>
