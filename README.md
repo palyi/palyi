@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+<H1>Palyi.space</H1>
 [Palyi.space <img align="left" alt="Palyi.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [<img align="left" alt="Palyi.space" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] </br>
 
 [Palyi.com <img align="left" alt="Palyi.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [<img align="left" alt="Palyi.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] </br>
