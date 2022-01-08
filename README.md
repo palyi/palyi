@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <H3>Palyi.space</H3>
-<img align="left" alt="Palyi.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <img align="left" alt="Palyi.space" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Palyi.space is a technology blog and YouTube channel presenting various concepts realized in prototypes I built in the domains of 
+<img align="left" alt="Palyi.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><a href="https://palyi.space">Palyi.space</a> <img align="left" alt="Palyi.space" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Palyi.space is a technology blog and YouTube channel presenting various concepts realized in prototypes I built in the domains of 
 <UL>
   <LI>ROCKETRY,</LI>
   <LI>DRONES,</LI>
